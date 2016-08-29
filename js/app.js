@@ -68,7 +68,6 @@ do {
 		var numero1 = parseInt(prompt("Ingrese el #1"));
 		var numero2 = parseInt(prompt("Ingrese el #2"));
 	}
-
 	switch (opcion){
 		case 1:
 			var suma = numero1 + numero2;
@@ -112,7 +111,6 @@ do {
 		default: 
 			alert("No es una opción");
 			break;
-	}
-	
+	}	
 } while(condicion);
 
