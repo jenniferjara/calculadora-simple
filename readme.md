@@ -12,3 +12,5 @@ A continuación se muestra el psedocódigo y el diagrama de flujo del ejercicio 
 5. Si el usuario quiere realizar una operación más, ingresar el número de la opción que desee.
 6. De lo contrario ingresar el número de la opción salir.
 7. Fin.
+
+![imagen](http://3.1m.yt/9jl2Vgh.jpg)
