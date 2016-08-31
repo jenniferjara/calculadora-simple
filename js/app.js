@@ -114,3 +114,4 @@ do {
 	}	
 } while(condicion);
 
+document.write("Gracias por la visita ^-^ !!")
